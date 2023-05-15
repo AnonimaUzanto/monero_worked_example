@@ -1,0 +1,44 @@
+{
+  "version": 2, 
+  "unlock_time": 0, 
+  "vin": [ {
+      "key": {
+        "amount": 0, 
+        "key_offsets": [ 67145548, 3090120, 410613, 1081574, 235301, 3878, 8900, 15029, 19198, 3380, 981, 3164, 579, 2300, 849, 753
+        ], 
+        "k_image": "9809c52944a9d2c4e0c489993a393c1d7c5aec2cd12d961d76ca735d3003219b"
+      }
+    }
+  ], 
+  "vout": [ {
+      "amount": 0, 
+      "target": {
+        "tagged_key": {
+          "key": "b6ec675aa98eac922feb4241baccb66719c9cbde6d0d066f725c3cb6ff2893c3", 
+          "view_tag": "ad"
+        }
+      }
+    }, {
+      "amount": 0, 
+      "target": {
+        "tagged_key": {
+          "key": "e4fc538d4aa8a6215410b9465ab6aee2afb6664c41f9e68b2f8e5ec3e6767254", 
+          "view_tag": "51"
+        }
+      }
+    }
+  ], 
+  "extra": [ 1, 120, 222, 68, 164, 210, 251, 161, 109, 154, 114, 180, 227, 61, 6, 172, 182, 84, 199, 148, 92, 39, 169, 144, 255, 17, 150, 43, 234, 230, 51, 45, 236, 2, 9, 1, 203, 161, 143, 104, 234, 83, 251, 93
+  ], 
+  "rct_signatures": {
+    "type": 6, 
+    "txnFee": 30600000, 
+    "ecdhInfo": [ {
+        "amount": "d61e55fe88f8f18d"
+      }, {
+        "amount": "1c1e6831d5d7a5bc"
+      }], 
+    "outPk": [ "cf1173d338fad880f8bea05ced1b631715fd4c026a442ef75dd447babaacee30", "a0fb334a0acc9f40794411f32aea4a1253ed536d8c2c431f18c9c2960cea9d57"]
+  }
+}
+
